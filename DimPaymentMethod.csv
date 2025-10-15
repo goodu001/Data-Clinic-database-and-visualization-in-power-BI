@@ -1,0 +1,9 @@
+﻿PaymentMethodID,PaymentMethodCode,PaymentMethodName,Category,IsActive,ProcessingFee
+1,CASH,เงินสด,Cash,1,0.0
+2,CC-VISA,บัตรเครดิต Visa,Credit Card,1,2.5
+3,CC-MC,บัตรเครดิต MasterCard,Credit Card,1,2.5
+4,DEBIT,บัตรเดบิต,Debit Card,1,1.5
+5,BANK-TRF,โอนเงินผ่านธนาคาร,Bank Transfer,1,0.0
+6,PROMPTPAY,พร้อมเพย์,E-Wallet,1,0.0
+7,TRUEMONEY,ทรูมันนี่วอลเล็ท,E-Wallet,1,1.0
+8,INSTALLMENT,ผ่อนชำระ 0%,Installment,1,3.5

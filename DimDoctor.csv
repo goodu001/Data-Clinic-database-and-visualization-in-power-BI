@@ -1,0 +1,11 @@
+﻿DoctorID,DoctorCode,DoctorName,Specialty,LicenseNumber,YearsOfExperience,EducationLevel,HourlyRate,Status,HireDate
+1,DR001,นพ.สมชาย ใจดี,General Medicine,MD12345,15,MD,1500,Active,2020-01-15
+2,DR002,นพ.วิชัย รักษา,Dermatology,MD12346,12,"MD, Board Certified",2000,Active,2020-02-01
+3,DR003,ทพญ.สุดา สวยงาม,Dermatology,MD12347,10,"MD, Board Certified",2000,Active,2020-03-15
+4,DR004,ทพ.ชัยวัฒน์ ยิ้มแย้ม,Dental,DT12348,8,DDS,1800,Active,2020-06-01
+5,DR005,ทพญ.มาลี รอยยิ้ม,Dental,DT12349,6,DDS,1600,Active,2021-01-15
+6,DR006,นพ.ประเสริฐ แข็งแรง,Orthopedics,MD12350,14,"MD, Board Certified",2200,Active,2021-03-01
+7,DR007,นพ.อนุชา เจริญ,General Medicine,MD12351,9,MD,1400,Active,2021-08-01
+8,DR008,ทพญ.ศิริพร สุขสม,General Medicine,MD12352,7,MD,1300,Active,2022-01-15
+9,DR009,ทพ.สมศักดิ์ สุดหล่อ,Dental,DT12353,5,DDS,1500,Active,2022-09-01
+10,DR010,นพ.ธนา มั่งมี,Dermatology,MD12354,11,"MD, Board Certified",2100,Active,2023-02-01

@@ -1,0 +1,19 @@
+﻿ServiceID,ServiceCode,ServiceName,ICD10Description,Category,SubCategory,BasePrice,Cost,Duration
+1,Z00.0,ตรวจสุขภาพทั่วไป,General medical examination,General Medicine,Consultation,500,150,30
+2,R50.9,ตรวจรักษาโรคทั่วไป,"Fever, unspecified",General Medicine,Treatment,800,250,45
+3,L98.9,ตรวจผิวหนัง,Disorder of skin and subcutaneous tissue,Dermatology,Consultation,1000,300,30
+4,L70.0,รักษาสิว,Acne vulgaris,Dermatology,Treatment,2500,800,60
+5,L81.9,เลเซอร์หน้าใส,Disorder of pigmentation,Dermatology,Aesthetic,5000,1500,90
+6,Z01.2,ตรวจฟัน,Dental examination,Dental,Consultation,300,100,30
+7,K02.9,อุดฟัน,Dental caries,Dental,Treatment,1500,500,60
+8,K03.6,ขูดหินปูน,Deposits on teeth,Dental,Treatment,1200,400,45
+9,K03.7,ฟอกสีฟัน,Posteruptive color changes of dental hard tissues,Dental,Aesthetic,8000,2500,120
+10,M25.9,ตรวจกระดูกและข้อ,"Joint disorder, unspecified",Orthopedics,Consultation,1200,350,30
+11,M79.3,กายภาพบำบัด,"Panniculitis, unspecified (for physiotherapy)",Orthopedics,Treatment,1800,600,60
+12,Z00.00,เจาะเลือดตรวจสุขภาพ,General medical examination without complaint,Laboratory,Blood Test,1500,400,15
+13,R82.90,ตรวจปัสสาวะ,Unspecified abnormal findings in urine,Laboratory,Urine Test,300,80,10
+14,Z01.6,X-Ray,Radiological examination,Laboratory,Imaging,800,250,20
+15,Z25.1,วัคซีนไข้หวัดใหญ่,Need for immunization against influenza,Vaccination,Flu,600,350,15
+16,Z28.3,วัคซีนโควิด-19,Underimmunization status (COVID-19),Vaccination,COVID-19,0,0,15
+17,Z00.01,แพ็คเกจตรวจสุขภาพพื้นฐาน,General medical examination with abnormal findings,Health Package,Basic,3500,1200,90
+18,Z13.9,แพ็คเกจตรวจสุขภาพแบบครอบคลุม,"Special screening examination, unspecified",Health Package,Comprehensive,8500,3000,180
